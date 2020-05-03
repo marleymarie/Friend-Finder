@@ -1,7 +1,7 @@
 var friends = [
 	{
-		name: 'Naruto',
-		image: 'https://pmcvariety.files.wordpress.com/2015/07/naruto_movie-lionsgate.jpg?w=1000',
+		name: 'GDragon',
+		image: 'https://i.pinimg.com/564x/25/7b/cd/257bcdb993e22d01e82fcd32d1e79812.jpg',
 		scores: [
 			'2',
 			'3',
@@ -16,8 +16,8 @@ var friends = [
 		]
 	},
 	{
-		name: 'Luffy',
-		image: 'https://i.pinimg.com/originals/0a/fb/46/0afb465b38987240997ed8d3cb054c64.png',
+		name: 'Momo',
+		image: 'https://i.pinimg.com/originals/03/ec/98/03ec9887118ef99a4fc86f4147a8ce44.jpg',
 		scores: [
 			'3',
 			'4',
@@ -32,8 +32,8 @@ var friends = [
 		]
 	},
 	{
-		name: 'Goku',
-		image: 'https://static0.cbrimages.com/wordpress/wp-content/uploads/2019/11/Goku-Feature-Image.jpg',
+		name: 'Jimin',
+		image: 'https://i.pinimg.com/564x/5d/08/74/5d08741d60d1eed0f6e6865d4f56198c.jpg',
 		scores: [
 			'4',
 			'3',
@@ -48,8 +48,8 @@ var friends = [
 		]
 	},
 	{
-		name: 'Ichigo',
-		image: 'https://i.pinimg.com/564x/63/8c/5c/638c5c69ecff8a285cdd57a2ada945cc.jpg',
+		name: 'Jisoo',
+		image: 'https://i.pinimg.com/564x/2d/28/be/2d28be5c77c653dad4275115af0ed4d5.jpg',
 		scores: [
 			'5',
 			'1',
@@ -64,8 +64,8 @@ var friends = [
 		]
 	},
 	{
-		name: 'Jotaro',
-		image: 'https://www.anime-planet.com/images/characters/jotaro-kujo-19368.jpg?t=1397848313',
+		name: 'Daddy Top',
+		image: 'https://i.pinimg.com/564x/79/ee/75/79ee7584323ff05ce77a44856fa42408.jpg',
 		scores: [
 			'1',
 			'1',
@@ -80,8 +80,8 @@ var friends = [
 		]
 	},
 	{
-		name: 'Naofumi',
-		image: 'https://i.pinimg.com/736x/70/61/41/706141d3e3d313caa1a40645b4cf9f48.jpg',
+		name: 'ROSE',
+		image: 'https://img1.kpopmap.com/2018/03/stunning-photos-blackpink-rose.jpg',
 		scores: [
 			'1',
 			'1',
@@ -96,8 +96,8 @@ var friends = [
 		]
 	},
 	{
-		name: 'Edward',
-		image: 'https://vignette.wikia.nocookie.net/fma/images/d/d3/Avatar_edward.png/revision/latest?cb=20180406214254',
+		name: 'TZUYU',
+		image: 'https://thumbnail.kpopmap.com/2018/03/stunning-photos-twice-tzuyu-2-780.jpg',
 		scores: [
 			'5',
 			'4',
@@ -112,8 +112,8 @@ var friends = [
 		]
 	},
 	{
-		name: 'Joker',
-		image: 'https://www.candb.com/site/candb/images/artwork/Joker_Persona-5_Atlus_1920.jpg',
+		name: 'JOY',
+		image: 'https://thumbnail.kpopmap.com/2018/03/stunning-photos-red-velvet-joy-780.jpg',
 		scores: [
 			'5',
 			'2',
@@ -128,8 +128,8 @@ var friends = [
 		]
 	},
 	{
-		name: 'Lightning',
-		image: 'https://goombastomp.com/wp-content/uploads/2016/12/lightning_returns_final_fantasy_xiii-3368047.jpg',
+		name: 'Lalisa',
+		image: 'https://i.pinimg.com/564x/c4/af/d2/c4afd248e915c24cf17b280753d894ad.jpg',
 		scores: [
 			'5',
 			'3',
@@ -144,8 +144,8 @@ var friends = [
 		]
 	},
 	{
-		name: 'Chun Li',
-		image: 'https://vignette.wikia.nocookie.net/projectxzone/images/2/23/Chun_Li.png/revision/latest/scale-to-width-down/340?cb=20170608025410',
+		name: 'Se jun',
+		image: 'https://thumbnail.kpopmap.com/2018/03/stunning-photos-victon-sejun-3-scaled-780.jpg',
 		scores: [
 			'1',
 			'5',
