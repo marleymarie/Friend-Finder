@@ -1,3 +1,5 @@
+var path = require("path");
+
 var friends = require("../data/friends");
 
 
@@ -5,7 +7,7 @@ module.exports = function(app) {
 
 
   app.get("/api/friends", function(req, res) {
-    res.json(friend);
+    res.json(friends);
   });
 
  
@@ -16,11 +18,11 @@ module.exports = function(app) {
       res.json(true);
     }
   });
-};
-app.post("/api/clear", function(req, res) {
-  friends.length = 0;
+
+  app.post("/api/clear", function(req, res) {
+    friends.length = 0;
+    
   
-
-  res.json({ ok: true });
-});
-
+    res.json({ ok: true });
+  });
+  };
